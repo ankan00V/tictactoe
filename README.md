@@ -1,6 +1,6 @@
 🔹 Project Overview: Crafted a Tic Tac Toe game enabling two players to take turns, validating wins and ties, and displaying the board post each move.
 
-🔹 **Key Steps:
+🔹 Key Steps:
 - Board Initialization: Established a 3x3 grid with a 2D vector.
 - Printing the Board: Implemented a function to exhibit the current board state.
 - Move Validation: Ensured valid player moves within the grid.
