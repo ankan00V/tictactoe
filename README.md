@@ -3,7 +3,7 @@
 🔹 Key Steps:
 - Board Initialization: Established a 3x3 grid with a 2D vector.
 - Printing the Board: Implemented a function to exhibit the current board state.
-- Move Validation: Ensured valid player moves within the grid.
+- Move Validation: Ensured valid player moves with in the grid.
 - Win/Tie Detection: Integrated logic to identify wins and ties.
 - Game Loop: Created a loop for player turns until game completion.
 
